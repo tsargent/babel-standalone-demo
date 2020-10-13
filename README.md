@@ -1,5 +1,7 @@
 # Babel Standalone Demo
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/732cc95c-d68a-47de-ace4-f1ce59512b35/deploy-status)](https://app.netlify.com/sites/babel-standalone/deploys)
+
 This is just a quick demo to show how [@babel/standalone](https://babeljs.io/docs/en/babel-standalone) works. All we have is an html file. That file loads React, ReactDOM, and @babel/standalone through script tags.
 
 We can then write our next-gen JavaScript directly in the html file and it will work! Pretty cool.
